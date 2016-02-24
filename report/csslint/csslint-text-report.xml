@@ -1,0 +1,149 @@
+
+
+csslint: There are 21 problems in css/main.css.
+
+main.css
+1: warning at line 45, col 5
+Using height with border-top can sometimes make elements larger than you expect.
+    border-top: 1px solid #ccc;
+
+main.css
+2: warning at line 123, col 5
+Use of !important
+    display: none !important;
+
+main.css
+3: warning at line 148, col 1
+Don't use adjoining classes.
+.visuallyhidden.focusable:active,
+
+main.css
+4: warning at line 148, col 1
+Don't use adjoining classes.
+.visuallyhidden.focusable:active,
+
+main.css
+5: warning at line 149, col 1
+Don't use adjoining classes.
+.visuallyhidden.focusable:focus {
+
+main.css
+6: warning at line 149, col 1
+Don't use adjoining classes.
+.visuallyhidden.focusable:focus {
+
+main.css
+7: warning at line 212, col 5
+The universal selector (*) is known to be slow.
+    *,
+
+main.css
+8: warning at line 213, col 5
+The universal selector (*) is known to be slow.
+    *:before,
+
+main.css
+9: warning at line 214, col 5
+The universal selector (*) is known to be slow.
+    *:after,
+
+main.css
+10: warning at line 215, col 5
+The universal selector (*) is known to be slow.
+    *:first-letter,
+
+main.css
+11: warning at line 216, col 5
+The universal selector (*) is known to be slow.
+    *:first-line {
+
+main.css
+12: warning at line 217, col 9
+Use of !important
+        background: transparent !important;
+
+main.css
+13: warning at line 218, col 9
+Use of !important
+        color: #000 !important; /* Black prints faster:
+
+main.css
+14: warning at line 220, col 9
+Use of !important
+        box-shadow: none !important;
+
+main.css
+15: warning at line 221, col 9
+Use of !important
+        text-shadow: none !important;
+
+main.css
+16: warning at line 242, col 6
+Attribute selectors with ^= are slow!
+    a[href^="#"]:after,
+
+main.css
+17: warning at line 243, col 6
+Attribute selectors with ^= are slow!
+    a[href^="javascript:"]:after {
+
+main.css
+18: warning at line 268, col 9
+Use of !important
+        max-width: 100% !important;
+
+main.css
+19: warning at line 278, col 5
+Heading (h2) has already been defined.
+    h2,
+
+main.css
+20: warning at line 279, col 5
+Heading (h3) has already been defined.
+    h3 {
+
+main.css
+21: warning
+You have 2 h2s, 2 h3s defined in this stylesheet.
+
+csslint: There are 8 problems in css/normalize.css.
+
+normalize.css
+1: warning at line 77, col 1
+Unqualified attribute selectors are known to be slow.
+[hidden],
+
+normalize.css
+2: warning at line 98, col 1
+Outlines should only be modified using :focus.
+a:active,
+
+normalize.css
+3: warning at line 213, col 3
+The box-sizing property isn't supported in IE6 and IE7.
+  box-sizing: content-box;
+
+normalize.css
+4: warning at line 294, col 3
+The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+  -webkit-appearance: button; /* 2 */
+
+normalize.css
+5: warning at line 336, col 3
+The box-sizing property isn't supported in IE6 and IE7.
+  box-sizing: border-box; /* 1 */
+
+normalize.css
+6: warning at line 357, col 3
+The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+  -webkit-appearance: textfield; /* 1 */
+
+normalize.css
+7: warning at line 358, col 3
+The box-sizing property isn't supported in IE6 and IE7.
+  box-sizing: content-box; /* 2 */
+
+normalize.css
+8: warning at line 369, col 3
+The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+  -webkit-appearance: none;

@@ -1,0 +1,29 @@
+css/main.css: line 45, col 5, Warning - Using height with border-top can sometimes make elements larger than you expect.
+css/main.css: line 123, col 5, Warning - Use of !important
+css/main.css: line 148, col 1, Warning - Don't use adjoining classes.
+css/main.css: line 148, col 1, Warning - Don't use adjoining classes.
+css/main.css: line 149, col 1, Warning - Don't use adjoining classes.
+css/main.css: line 149, col 1, Warning - Don't use adjoining classes.
+css/main.css: line 212, col 5, Warning - The universal selector (*) is known to be slow.
+css/main.css: line 213, col 5, Warning - The universal selector (*) is known to be slow.
+css/main.css: line 214, col 5, Warning - The universal selector (*) is known to be slow.
+css/main.css: line 215, col 5, Warning - The universal selector (*) is known to be slow.
+css/main.css: line 216, col 5, Warning - The universal selector (*) is known to be slow.
+css/main.css: line 217, col 9, Warning - Use of !important
+css/main.css: line 218, col 9, Warning - Use of !important
+css/main.css: line 220, col 9, Warning - Use of !important
+css/main.css: line 221, col 9, Warning - Use of !important
+css/main.css: line 242, col 6, Warning - Attribute selectors with ^= are slow!
+css/main.css: line 243, col 6, Warning - Attribute selectors with ^= are slow!
+css/main.css: line 268, col 9, Warning - Use of !important
+css/main.css: line 278, col 5, Warning - Heading (h2) has already been defined.
+css/main.css: line 279, col 5, Warning - Heading (h3) has already been defined.
+css/main.css: Warning - You have 2 h2s, 2 h3s defined in this stylesheet.
+css/normalize.css: line 77, col 1, Warning - Unqualified attribute selectors are known to be slow.
+css/normalize.css: line 98, col 1, Warning - Outlines should only be modified using :focus.
+css/normalize.css: line 213, col 3, Warning - The box-sizing property isn't supported in IE6 and IE7.
+css/normalize.css: line 294, col 3, Warning - The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+css/normalize.css: line 336, col 3, Warning - The box-sizing property isn't supported in IE6 and IE7.
+css/normalize.css: line 357, col 3, Warning - The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
+css/normalize.css: line 358, col 3, Warning - The box-sizing property isn't supported in IE6 and IE7.
+css/normalize.css: line 369, col 3, Warning - The property -moz-appearance is compatible with -webkit-appearance and should be included as well.
